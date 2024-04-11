@@ -1,4 +1,5 @@
 int main()
 {
-printf("Zdravo")
+printf("Zdravo");
+printf("Zdravo");
 }
